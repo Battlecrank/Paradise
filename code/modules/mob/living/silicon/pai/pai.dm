@@ -25,7 +25,8 @@
 		"Mouse" = "mouse",
 		"Monkey" = "monkey",
 		"Corgi" = "corgi",
-		"Fox" = "fox"
+		"Fox" = "fox" ,
+		"Fairy" = "fairy"
 		)
 
 	var/global/list/possible_say_verbs = list(
