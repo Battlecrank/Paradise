@@ -21,10 +21,13 @@
 	var/chassis = "repairbot"   // A record of your chosen chassis.
 	var/global/list/possible_chassis = list(
 		"Drone" = "repairbot",
+		"Box Bot" = "boxbot",
+		"Spider Bot" = "spiderbot",
 		"Cat" = "cat",
 		"Mouse" = "mouse",
 		"Monkey" = "monkey",
 		"Corgi" = "corgi",
+		"Pony" = "pony" ,
 		"Fox" = "fox" ,
 		"Fairy" = "fairy"
 		)
@@ -35,6 +38,7 @@
 		"Beep" = list("beeps","beeps loudly","boops"),
 		"Chirp" = list("chirps","chirrups","cheeps"),
 		"Feline" = list("purrs","yowls","meows"),
+		"Equine" = list("nickers","whinnys","neighs"),
 		"Canine" = list("yaps","barks","growls")
 		)
 
